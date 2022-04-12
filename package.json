@@ -1,15 +1,15 @@
 {
-  "name": "fundamentos-typescript",
-  "version": "1.0.0",
-  "description": "curso de fundamentos de typescript de platzi",
-  "main": "index.js",
-  "scripts": {
+    "name": "ts-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "santiago",
-  "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "typescript": "^4.6.3"
-  }
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+    "typescript": "^4.5.5"
+    }
 }
