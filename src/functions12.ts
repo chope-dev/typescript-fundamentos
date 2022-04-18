@@ -25,7 +25,7 @@
     title: string,
     createdAt: Date,
     stock: number,
-    size?: Sizes
+    size?: Sizes //? = optional
     ) => {
     return {
         title,
