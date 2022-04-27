@@ -1,6 +1,6 @@
 (()=>{
     /**
-     * // definiendo un tipo //!alias type
+     * // definiendo uun tipo //!alias type
      */
     type UserID =  string | number | boolean;
 
